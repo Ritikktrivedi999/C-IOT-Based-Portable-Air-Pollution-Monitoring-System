@@ -50,6 +50,8 @@ The **IoT Cloud** is the backbone of this project, providing storage and process
 
 ---
 
+## Research Paper on - Journal of Aerospace Engineering & Technology (JoAET)
+### Link- https://techjournals.stmjournals.in/index.php/JoAET/article/view/1551
 
 
 
