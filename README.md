@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focuses on developing an **IoT-based air pollution monitoring system** that uses drones to measure air quality at different levels in the atmosphere. The system is designed to be **portable, cost-effective, and highly efficient**, utilizing gas sensors such as **MQ-135, MQ-4, MQ-7, and MQ-2** to detect various pollutants, including particulate matter (PM), nitrogen dioxide (NO₂), ozone (O₃), and carbon monoxide (CO). The data collected is transmitted wirelessly via the **ESP8266 Wi-Fi module** to a cloud server, enabling remote monitoring and real-time analysis.
+![IMG20240608104958](https://github.com/user-attachments/assets/aed44677-7b0e-4314-9fe9-1c0d139e6b4f)
 
 ## Key Features
 1. **Portability**: The lightweight system can be easily attached to drones, allowing for air quality monitoring at different heights and locations.
@@ -40,6 +41,7 @@ The **IoT Cloud** is the backbone of this project, providing storage and process
 - **Scalability**: Can easily scale to accommodate multiple sensors and locations.
 - **Remote Access**: Users can monitor air quality data from any device with internet access.
 - **Advanced Analytics**: Leverages cloud-based algorithms to detect patterns, identify pollution sources, and forecast air quality trends.
+  ![Cloud DashBoard](https://github.com/user-attachments/assets/9188db2a-a775-49f8-9949-eae582249ba0)
 
 ## Future Improvements
 - Add support for more advanced sensors to detect additional types of pollutants.
@@ -48,6 +50,6 @@ The **IoT Cloud** is the backbone of this project, providing storage and process
 
 ---
 
-![Cloud DashBoard](https://github.com/user-attachments/assets/9188db2a-a775-49f8-9949-eae582249ba0)
-![IMG20240608104958](https://github.com/user-attachments/assets/aed44677-7b0e-4314-9fe9-1c0d139e6b4f)
+
+
 
